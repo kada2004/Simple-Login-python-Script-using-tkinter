@@ -38,7 +38,7 @@ You can customize this code by changing the default user ID and password in the 
 This project uses the following Pyhton libraries:
 
 . Tkinter: For creating the GUI
-. tkinter.messagebox: fOR THE DISPLAYING POP-UP MESSAGES.
+. tkinter.messagebox: For the displaying pop-up messages.
 
 # Author
 This simple login application was created by Dan Kalenga
